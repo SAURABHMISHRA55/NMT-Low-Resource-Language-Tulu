@@ -154,14 +154,4 @@ By improving **access to Tulu through machine translation**, the project aims to
 
 For detailed information, refer to the code and datasets provided within this repository.
 
-## Files and Directories
 
-- **Code**: Contains scripts with environment setup, data preparation, model training, and evaluation.
-- **Data**: Includes training and validation datasets (English, Tulu, Kannada).
-- **Figures**: Visualizations (sentence length distribution, unique token distribution, etc.).
-
-## Conclusion
-
-This `README.md` provides an overview of the project, detailing its objectives, challenges, methodologies, and outcomes. The project underscores the importance of MT in preserving cultural heritage and promoting national integration through better accessibility to information in low-resourced languages.
-
-For more detailed information, refer to the corresponding sections and files within this repository.
